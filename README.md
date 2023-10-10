@@ -2,8 +2,8 @@
 
 ### Eai? Sou o Luís, prazer :)
 
-🔭 Pretendo trabalhar como desenvolvedor front-end <br>
-🌱 Estudando HTML, CSS, JS e GIT
+🔭 Pretendo trabalhar como desenvolvedor <br>
+🌱 Estudando HTML, CSS, JS, GIT e Inteligência Artifcial
 </div>
 
 
