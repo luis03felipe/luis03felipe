@@ -3,7 +3,7 @@
 ### Eai? Sou o Luís, prazer :)
 
 🔭 Pretendo trabalhar como desenvolvedor <br>
-🌱 Estudando HTML, CSS, JS, GIT e Inteligência Artifcial
+🌱 Estudando HTML, CSS, JS, GIT
 </div>
 
 
