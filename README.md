@@ -2,8 +2,7 @@
 
 ### Eai? Sou o Luís, prazer :)
 
-🔭 Pretendo trabalhar como desenvolvedor <br>
-🌱 Estudando HTML, CSS, JS, GIT
+🔭 Desenvolvendo uns fronts por ai <br>
 </div>
 
 
